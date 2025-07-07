@@ -1,4 +1,4 @@
-# Convolution Model - Application
+# Convolution Model - Binary (Sigmoid) and Multiclass (Softmax)
 
 This project implements the forward and backward passes of a Convolutional Neural Network (CNN) **from scratch using NumPy**. It is based on an assignment from the Deep Learning Specialization by Andrew Ng (Coursera - Week 1 of the Convolutional Neural Networks course).
 
