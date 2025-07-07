@@ -20,7 +20,7 @@ This project implements the forward and backward passes of a Convolutional Neura
 
 ## Highlights
 
-- Manual implementation of CNN components:
+- TensorFlow implementation of CNN components:
   - Zero-padding
   - Convolution (single and multi-channel)
   - Pooling (max and average)
