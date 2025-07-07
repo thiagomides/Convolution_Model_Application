@@ -1,10 +1,10 @@
-# 🧠 Convolution Model - Application
+# Convolution Model - Application
 
 This project implements the forward and backward passes of a Convolutional Neural Network (CNN) **from scratch using NumPy**. It is based on an assignment from the Deep Learning Specialization by Andrew Ng (Coursera - Week 1 of the Convolutional Neural Networks course).
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - **Binary Classification Task (TensorFlow):**  
   Build and train a ConvNet that classifies images of people's faces to determine if they are smiling or not. Only smiling people get to enter the house!
@@ -14,7 +14,7 @@ This project implements the forward and backward passes of a Convolutional Neura
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 - Manual implementation of CNN components:
   - Zero-padding
@@ -27,7 +27,7 @@ This project implements the forward and backward passes of a Convolutional Neura
 
 ---
 
-## 📓 Notebook Contents
+## Notebook Contents
 
 The notebook (`Convolution_model_Application.ipynb`) guides you through:
 
@@ -51,7 +51,7 @@ The notebook (`Convolution_model_Application.ipynb`) guides you through:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -67,7 +67,7 @@ Convolution\_model\_Application/
 
 ---
 
-## 🧑‍💻 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -92,7 +92,7 @@ jupyter notebook Convolution_model_Application.ipynb
 
 ---
 
-## 🎯 Requirements
+## Requirements
 
 * Python 3.6+
 * NumPy
@@ -102,7 +102,7 @@ jupyter notebook Convolution_model_Application.ipynb
 
 ---
 
-## 🧠 Educational Value
+## Educational Value
 
 This project is focused on learning and implementing the core ideas of CNNs using **no deep learning frameworks**. Ideal for:
 
@@ -112,7 +112,7 @@ This project is focused on learning and implementing the core ideas of CNNs usin
 
 ---
 
-## 📚 Reference
+## Reference
 
 This work is based on the assignment:
 
