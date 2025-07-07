@@ -9,8 +9,12 @@ This project implements the forward and backward passes of a Convolutional Neura
 - **Binary Classification Task (TensorFlow):**  
   Build and train a ConvNet that classifies images of people's faces to determine if they are smiling or not. Only smiling people get to enter the house!
 
+
 - **Multiclass Classification Task (TensorFlow):**  
   Build and train a ConvNet to differentiate between 6 sign language digits.
+
+  ![Sign Language Digits](images/SIGNS.png)
+
 
 ---
 
